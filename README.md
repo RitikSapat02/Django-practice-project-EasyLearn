@@ -1,15 +1,11 @@
-# marketIT 
-This is a online market app. You can sell or buy any items here
+# A practice project -Easylearning
+Note:- I am yet to add important features 
 
 
 ## Description
-- 
-- This project is built on Django,sqlite,python,vanilla js,html,css,Tailwind css.
-- User can buy sell an item
-- User can search for item
-- user can contact to the seller
+- This project is built on Django,sqlite,python,vanilla js,html,css,bootstrap css
 - Authentication is provided
-- user can upload item including item image,name,description 
+
 
 ## First Time Installation
 - Clone the Repository.
